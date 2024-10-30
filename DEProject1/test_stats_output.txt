@@ -1,0 +1,5 @@
+names: 3
+dates: 2
+phones: 1
+addresses: 2
+concepts: 1
